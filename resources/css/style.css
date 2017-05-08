@@ -9,13 +9,18 @@ body {
 }
 
 .header h1 {
-  font-size: 70px;
+  font-size: 68px;
   font-weight: bold;
 }
 
 .header p {
-  font-size: 18px;
+  font-size: 17px;
 }
+
+a {
+  color: white;
+}
+
 
 h2 {
   font-size: 32px;
